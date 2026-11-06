@@ -33,7 +33,7 @@ header {
 }
 
 header h1 {
-  font-size: 35px;
+  font-size: 55px;
   color: white;
 }
 
@@ -48,8 +48,8 @@ nav a {
   transition: 0.3s;
 }
 nav a:hover {
-  color: gold;
-  border-bottom: 2px solid gold;
+  color: blue;
+  border-bottom: 2px solid blue;
   padding-bottom: 5px;
 }
 
